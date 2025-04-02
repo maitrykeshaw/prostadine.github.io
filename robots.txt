@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://get-prostadine.vercel.app
+Sitemap: https://get-prostadine.vercel.app/sitemap.xml
