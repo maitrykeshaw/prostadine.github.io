@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Prostadine™ (OFFICIAL®) Advanced Prostate formula",
+  "short_name":"Prostadine™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Prostadine is a natural supplement that may improve prostate health and lessen the likelihood of enlarged prostate development.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
